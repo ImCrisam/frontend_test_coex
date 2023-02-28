@@ -1,0 +1,113 @@
+.flex {
+  display: flex;
+}
+.nodont {
+  list-style: none;
+}
+.logo {
+  width: 180px;
+}
+.icon {
+  width: 35px;
+  height: 35px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mx {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.my {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.block {
+  display: block;
+}
+
+body {
+  background-color: white;
+}
+.b-gray {
+  background-color: #504f4f;
+}
+.b-gray2 {
+  background-color: #474444;
+}
+.ms-18 {
+  margin-left: 18px;
+}
+.px-5 {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.border {
+  border: 1px solid #707070;
+}
+.border-s {
+  border-left: 1px solid #707070;
+}
+.bold {
+  font-weight: bold;
+}
+.t-withe {
+  color: white;
+}
+
+.b-blue {
+  background-color: #3c72fc;
+}
+.b-blue2 {
+  background-color: #0f0d1d;
+}
+
+.w-50 {
+  width: 50vw;
+}
+.button {
+  background-color: #3c72fc;
+
+  padding: 15px;
+}
+.button2 {
+  background-color: #3c72fc;
+
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.conten {
+  padding-top: 75px;
+  padding-bottom: 50px;
+}
+
+.f-h1 {
+  font-size: 50px;
+}
+.f-h2 {
+  font-size: 40px;
+}
+.mt-25px {
+  margin-top: 25px;
+}
+
+.card {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin: 15px;
+  background-color: black;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+}
+.ma {
+  margin: auto;
+}
