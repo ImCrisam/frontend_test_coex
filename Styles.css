@@ -1,0 +1,32 @@
+body{
+    font-family: 'Aladin', cursive;}
+.bg-green{
+ background-color: #015239;
+}
+.color-green{
+    color: #015239;
+}
+.bg-black-green{
+    background-color: #113A2D;
+}
+.bg-light-green{
+    background-color: #E4FAEE;
+}
+.bg-purpure{
+    background-color: #7D56FC;
+}
+.bg-opacity {
+    background-color: rgb(255, 255, 255, 0.2);
+}
+.bg-black-opacity {
+    background-color: rgb(0, 0, 0, 0.2);
+}
+.iconsHero{
+    width: 44px;
+    height: 44px;
+    margin-right: -10px;
+    object-fit: cover
+}
+.text-amaranth{
+    font-family: 'Amaranth', sans-serif;
+}
