@@ -30,7 +30,7 @@ body{
     background-color: rgb(0, 0, 0, 0.2);
 }
 .bg-dg-black-green{
-    background: linear-gradient(to left, #113A2D , rgba(255,255,255,0) 10% 90%,#113A2D );
+    background: linear-gradient(to left, #113A2D , rgba(255,255,255,0) 20% 80%,#113A2D );
 }
 .color-green{
     color: #015239;
