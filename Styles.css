@@ -1,18 +1,25 @@
 body{
     font-family: 'Aladin', cursive;
+    background-color: black;
 }
+
 .bg-green{
  background-color: #015239;
 }
-.color-green{
-    color: #015239;
+.bg-dark-green{
+    background-color: #08251C;
 }
+
 .bg-black-green{
     background-color: #113A2D;
 }
 .bg-light-green{
     background-color: #E4FAEE;
 }
+.bg-white{
+    background-color: white;
+   }
+
 .bg-purpure{
     background-color: #7D56FC;
 }
@@ -22,12 +29,37 @@ body{
 .bg-black-opacity {
     background-color: rgb(0, 0, 0, 0.2);
 }
+.bg-dg-black-green{
+    background: linear-gradient(to left, #113A2D , rgba(255,255,255,0) 10% 90%,#113A2D );
+}
+.color-green{
+    color: #015239;
+}
 .iconsHero{
     width: 44px;
     height: 44px;
     margin-right: -10px;
     object-fit: cover
 }
+.iconsIntegration{
+    height: 40px;
+}
 .text-amaranth{
     font-family: 'Amaranth', sans-serif;
 }
+.fs-7{
+    font-size: 0.8rem;
+}
+.text-black-border{
+    -webkit-text-stroke: 0.2px black;
+}
+.text-light-green{
+    color: #B8FFE1;
+}
+.border-r-16{
+    border-radius:  16px;
+}
+.border-r-12{
+    border-radius:  12px;
+}
+
